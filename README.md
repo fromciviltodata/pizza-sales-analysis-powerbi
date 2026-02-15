@@ -23,6 +23,8 @@ Interactive Power BI dashboard analyzing pizza sales performance to uncover dema
 
 * Power Query
 
+!(C:\Folders\Ekta Projects\PowerBI learning & Projects\project 6 - pizza sales)
+
 ### Key Features
 
 * Daily and hourly sales trends
