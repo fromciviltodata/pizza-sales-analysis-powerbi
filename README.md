@@ -1,44 +1,44 @@
-🍕 Pizza Sales Analysis – Power BI
-Overview
+# 🍕 Pizza Sales Analysis – Power BI
+## Overview
 
 Interactive Power BI dashboard analyzing pizza sales performance to uncover demand patterns, revenue drivers, and product performance insights.
 
-Objectives
+### Objectives
 
-Identify peak ordering hours and high-performing weekdays
+* Identify peak ordering hours and high-performing weekdays
 
-Analyze revenue contribution by pizza category and size
+* Analyze revenue contribution by pizza category and size
 
-Evaluate top and underperforming pizzas
+* Evaluate top and underperforming pizzas
 
-Detect sales concentration opportunities
+* Detect sales concentration opportunities
 
-Tools Used
+### Tools Used
 
-Power BI
+* Power BI
 
-PostgreSQL
+* PostgreSQL
 
-DAX
+* DAX
 
-SQL
+* Power Query
 
-Key Features
+### Key Features
 
-Daily and hourly sales trends
+* Daily and hourly sales trends
 
-Revenue share by category and size (%)
+* Revenue share by category and size (%)
 
-Top 5 and Bottom 5 pizza performance
+* Top 5 and Bottom 5 pizza performance
 
-Interactive slicers (Date, Category, Size)
+* Interactive slicers (Date, Category, Size)
 
-Dynamic KPI cards
+* Dynamic KPI cards
 
-Key Insights
+### Key Insights
 
-Peak demand occurs during evening hours
+* Peak demand occurs during evening hours
 
-Sales are concentrated among a small group of top-performing pizzas
+* Sales are concentrated among a small group of top-performing pizzas
 
-Certain categories drive disproportionate revenue share
+* Certain categories drive disproportionate revenue share
