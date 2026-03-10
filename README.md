@@ -23,7 +23,7 @@ Interactive Power BI dashboard analyzing pizza sales performance to uncover dema
 
 * Power Query
 
-![📊 View Dashboard](https://github.com/fromciviltodata/pizza-sales-analysis-powerbi/blob/main/Screenshot%202026-02-14%20201424.png)
+![📊 View Dashboard](https://github.com/fromciviltodata/pizza-sales-analysis-powerbi/blob/main/overview.png)
 
 ### Key Features
 
